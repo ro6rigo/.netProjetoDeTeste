@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="Code Coverage" uri="datacollector://Microsoft/CodeCoverage/2.0" assemblyQualifiedName="Microsoft.VisualStudio.Coverage.DynamicCoverageDataCollector, Microsoft.VisualStudio.TraceCollector, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+        <Configuration>
+          <CodeCoverage>
+			<ModulePaths>
+				<Exclude>
+					<ModulePath>.*Microsoft.OpenApi.dll</ModulePath>
+					<ModulePath>.*Microsoft.TestPlatform.CommunicationUtilities.dll</ModulePath>
+					<ModulePath>.*Microsoft.TestPlatform.CoreUtilities.dll</ModulePath>
+					<ModulePath>.*Microsoft.TestPlatform.CrossPlatEngine.dll</ModulePath>
+					<ModulePath>.*Microsoft.TestPlatform.PlatformAbstractions.dll</ModulePath>
+					<ModulePath>.*Microsoft.TestPlatform.Utilities.dll</ModulePath>
+					<ModulePath>.*Microsoft.VisualStudio.CodeCoverage.Shim.dll</ModulePath>
+					<ModulePath>.*Microsoft.VisualStudio.TestPlatform.Common.dll</ModulePath>
+					<ModulePath>.*Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</ModulePath>
+					<ModulePath>.*Newtonsoft.Json.dll</ModulePath>
+					<ModulePath>.*NuGet.Frameworks.dll</ModulePath>
+					<ModulePath>.*Swashbuckle.AspNetCore.Swagger.dll</ModulePath>
+					<ModulePath>.*Swashbuckle.AspNetCore.SwaggerGen.dll</ModulePath>
+					<ModulePath>.*Swashbuckle.AspNetCore.SwaggerUI.dll</ModulePath>
+					<ModulePath>.*testhost.dll</ModulePath>
+					<ModulePath>.*xunit.abstractions.dll</ModulePath>
+					<ModulePath>.*xunit.assert.dll</ModulePath>
+					<ModulePath>.*xunit.core.dll</ModulePath>
+					<ModulePath>.*xunit.execution.dotnet.dll</ModulePath>
+					<ModulePath>.*xunit.runner.reporters.netcoreapp10.dll</ModulePath>
+					<ModulePath>.*xunit.runner.utility.netcoreapp10.dll</ModulePath>
+					<ModulePath>.*xunit.runner.visualstudio.dotnetcore.testadapter.dll</ModulePath>
+					<ModulePath>.*TestProject.dll</ModulePath>
+				</Exclude>
+			</ModulePaths>
+          </CodeCoverage>
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>
