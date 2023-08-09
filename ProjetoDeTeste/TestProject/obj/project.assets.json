@@ -6289,19 +6289,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ro6ri\\.nuget\\packages\\": {}
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ro6ri\\OneDrive\\Área de Trabalho\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\ro6ri\\OneDrive\\Área de Trabalho\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\TestProject\\TestProject.csproj",
-      "packagesPath": "C:\\Users\\ro6ri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ro6ri\\OneDrive\\Área de Trabalho\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\TestProject\\obj\\",
+      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\TestProject\\TestProject.csproj",
+      "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ro6ri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6315,8 +6315,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ro6ri\\OneDrive\\Área de Trabalho\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste.csproj": {
-              "projectPath": "C:\\Users\\ro6ri\\OneDrive\\Área de Trabalho\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste.csproj"
+            "C:\\Users\\Rodrigo\\Desktop\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste.csproj": {
+              "projectPath": "C:\\Users\\Rodrigo\\Desktop\\GIT\\.netProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste\\ProjetoDeTeste.csproj"
             }
           }
         }
@@ -6372,7 +6372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
